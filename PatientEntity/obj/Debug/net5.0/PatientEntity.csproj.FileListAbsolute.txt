@@ -1,0 +1,24 @@
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.deps.json
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\ref\PatientEntity.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.pdb
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.csproj.AssemblyReference.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.AssemblyInfoInputs.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.AssemblyInfo.cs
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.csproj.CoreCompileInputs.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\ref\PatientEntity.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.pdb
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.deps.json
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\ref\PatientEntity.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\bin\Debug\net5.0\PatientEntity.pdb
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.csproj.AssemblyReference.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.AssemblyInfoInputs.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.AssemblyInfo.cs
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.csproj.CoreCompileInputs.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\ref\PatientEntity.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientEntity\obj\Debug\net5.0\PatientEntity.pdb

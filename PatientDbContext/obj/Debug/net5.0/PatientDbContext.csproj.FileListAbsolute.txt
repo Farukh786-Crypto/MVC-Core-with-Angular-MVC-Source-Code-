@@ -1,0 +1,36 @@
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.deps.json
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.runtimeconfig.json
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.runtimeconfig.dev.json
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\ref\PatientDbContext.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.pdb
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientEntity.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientEntity.pdb
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.AssemblyReference.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.AssemblyInfoInputs.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.AssemblyInfo.cs
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.CoreCompileInputs.cache
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.CopyComplete
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\ref\PatientDbContext.dll
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.pdb
+F:\Questpond\6.MVC core with Angular\MVC Core with Angular Training Recordings(OLD)\Source code\Lab 10\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.genruntimeconfig.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.deps.json
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.runtimeconfig.json
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.runtimeconfig.dev.json
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\ref\PatientDbContext.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientDbContext.pdb
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientEntity.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\bin\Debug\net5.0\PatientEntity.pdb
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.AssemblyReference.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.AssemblyInfoInputs.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.AssemblyInfo.cs
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.CoreCompileInputs.cache
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.csproj.CopyComplete
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\ref\PatientDbContext.dll
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.pdb
+D:\MVC core with Angular\PatientManagementServer\PatientManagementSolution\PatientDbContext\obj\Debug\net5.0\PatientDbContext.genruntimeconfig.cache
